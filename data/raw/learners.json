@@ -1,0 +1,698 @@
+[
+  {
+    "id": 501,
+    "name": "Aysel Məmmədova",
+    "age": 20,
+    "general_interests": ["Psixologiya", "Musiqi", "Fotoqrafiya"],
+    "tech_interests": ["UI/UX Design"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UI/UX dizayna necə başlaya bilərəm?",
+        "timestamp": "2025-02-18 15:10"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Murad Əliyev",
+    "age": 24,
+    "general_interests": ["Fitness", "Futbol", "Kino"],
+    "tech_interests": ["Backend", "Data Analysis"],
+    "education_level": "Bachelor",
+    "current_role": "Junior Accountant",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Python basics",
+    "history": [
+      {
+        "query": "Backend üçün Python kifayətdirmi?",
+        "timestamp": "2025-02-18 13:05"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Aynur Hüseynli",
+    "age": 19,
+    "general_interests": ["Rəsm", "Modelling", "Kitab oxumaq"],
+    "tech_interests": ["Frontend", "Graphic Design"],
+    "education_level": "High-school",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "HTML/CSS basic understanding",
+    "history": [
+      {
+        "query": "Frontend üçün hansı kursa başlaya bilərəm?",
+        "timestamp": "2025-02-17 18:22"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Samir Qurbanov",
+    "age": 26,
+    "general_interests": ["Avtomobillər", "Texnologiya", "Satış"],
+    "tech_interests": ["QA", "SRE"],
+    "education_level": "Bachelor",
+    "current_role": "Sales Specialist",
+    "work_experience_years": 3,
+    "current_it_knowledge": "No IT background",
+    "history": [
+      {
+        "query": "IT-yə sıfırdan necə keçmək olar?",
+        "timestamp": "2025-02-16 21:44"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Rüfət Orucov",
+    "age": 22,
+    "general_interests": ["Geyim brendləri", "Səyahət", "Musiqi"],
+    "tech_interests": ["Digital Marketing", "Business Analysis"],
+    "education_level": "Bachelor",
+    "current_role": "Part-time barista",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "Marketinq üçün hansı IT bilikləri lazımdır?",
+        "timestamp": "2025-02-15 12:40"
+      }
+    ]
+  },
+
+  {
+    "id": 506,
+    "name": "Nərmin Vəliyeva",
+    "age": 23,
+    "general_interests": ["Dizayn", "Qrafika", "Moda"],
+    "tech_interests": ["UI/UX", "Motion Design"],
+    "education_level": "Bachelor",
+    "current_role": "Junior Graphic Designer",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Figma basic",
+    "history": [
+      {
+        "query": "UI/UX üçün hansı bacarıqları qurmalıyam?",
+        "timestamp": "2025-02-14 10:55"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Emin Qasımov",
+    "age": 25,
+    "general_interests": ["Basketbol", "Video montaj", "E-idman"],
+    "tech_interests": ["Game Development", "Backend"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "C# basics",
+    "history": [
+      {
+        "query": "Unity ilə oyun düzəltmək çətindirmi?",
+        "timestamp": "2025-02-13 19:11"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Aydan Ramazanlı",
+    "age": 21,
+    "general_interests": ["Psixologiya", "Kitablar", "Rəqs"],
+    "tech_interests": ["Data Science"],
+    "education_level": "Bachelor",
+    "current_role": "Psychology Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "No coding experience",
+    "history": [
+      {
+        "query": "Data Science üçün riyaziyyat çox lazımdır?",
+        "timestamp": "2025-02-12 16:48"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Tuncay Rzayev",
+    "age": 27,
+    "general_interests": ["Biznes", "Futbol", "Startaplar"],
+    "tech_interests": ["Product Management", "BA"],
+    "education_level": "Master",
+    "current_role": "Business Analyst Intern",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Intermediate",
+    "history": [
+      {
+        "query": "Product Manager olmaq üçün nə lazımdır?",
+        "timestamp": "2025-02-11 20:03"
+      }
+    ]
+  },
+
+  {
+    "id": 510,
+    "name": "Ləman Əlizadə",
+    "age": 19,
+    "general_interests": ["Psixologiya", "K-pop", "Rəsm"],
+    "tech_interests": ["Frontend", "UI/UX"],
+    "education_level": "High-school",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "HTML öyrənməyə necə başlayım?",
+        "timestamp": "2025-02-10 17:10"
+      }
+    ]
+  },
+
+  {
+    "id": 511,
+    "name": "Kamran Hidayətov",
+    "age": 28,
+    "general_interests": ["Səyahət", "Karyera inkişafı", "Kino"],
+    "tech_interests": ["Cloud", "DevOps"],
+    "education_level": "Bachelor",
+    "current_role": "System Support Specialist",
+    "work_experience_years": 2,
+    "current_it_knowledge": "Linux basics",
+    "history": [
+      {
+        "query": "DevOps üçün hansı bulud servisindən başlamaq lazımdır?",
+        "timestamp": "2025-02-09 09:43"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Elgün Rüstəmov",
+    "age": 22,
+    "general_interests": ["Video oyunlar", "Sosial media", "Musiqi"],
+    "tech_interests": ["Cybersecurity"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Networking basics",
+    "history": [
+      {
+        "query": "Kibertəhlükəsizlik üçün hansı proqramlaşdırma dili lazımdır?",
+        "timestamp": "2025-02-08 18:20"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Nigar Səlimova",
+    "age": 23,
+    "general_interests": ["Musiqi", "Dram teatrı", "İncəsənət"],
+    "tech_interests": ["Digital Marketing"],
+    "education_level": "Bachelor",
+    "current_role": "Marketing Assistant",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Excel intermediate",
+    "history": [
+      {
+        "query": "SEO öyrənmək üçün nə lazımdır?",
+        "timestamp": "2025-02-07 10:15"
+      }
+    ]
+  },
+
+  {
+    "id": 514,
+    "name": "Eldar Ağayev",
+    "age": 24,
+    "general_interests": ["Musiqi", "Ədəbiyyat", "Səyahət"],
+    "tech_interests": ["Data Analysis"],
+    "education_level": "Bachelor",
+    "current_role": "Bank Intern",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Basic Python",
+    "history": [
+      {
+        "query": "Data analitik olmaq üçün hansı kursu seçməliyəm?",
+        "timestamp": "2025-02-06 14:55"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Aysu Məlikova",
+    "age": 21,
+    "general_interests": ["Rəqs", "Psixologiya", "Kitab oxumaq"],
+    "tech_interests": ["AI", "Data Science"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "No IT background",
+    "history": [
+      {
+        "query": "AI öyrənmək üçün hansı dillər lazımdır?",
+        "timestamp": "2025-02-05 16:30"
+      }
+    ]
+  },
+
+  {
+    "id": 516,
+    "name": "Orxan Kərimov",
+    "age": 23,
+    "general_interests": ["Kino", "Biznes", "Oyun"],
+    "tech_interests": ["Game Development"],
+    "education_level": "Bachelor",
+    "current_role": "Freelancer",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Unity basics",
+    "history": [
+      {
+        "query": "C# öyrənmək üçün ən yaxşı yol nədir?",
+        "timestamp": "2025-02-04 19:50"
+      }
+    ]
+  },
+
+  {
+    "id": 517,
+    "name": "Fidan İbrahimli",
+    "age": 22,
+    "general_interests": ["Moda", "Fotoqrafiya", "Memarlıq"],
+    "tech_interests": ["UI/UX", "Frontend"],
+    "education_level": "Bachelor",
+    "current_role": "Part-time Designer",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Figma beginner",
+    "history": [
+      {
+        "query": "Figma öyrənmək üçün resurs varmı?",
+        "timestamp": "2025-02-03 11:42"
+      }
+    ]
+  },
+
+  {
+    "id": 518,
+    "name": "Səid Əhmədov",
+    "age": 26,
+    "general_interests": ["Kənd təsərrüfatı", "Sosial media", "Elektronika"],
+    "tech_interests": ["IoT", "AI"],
+    "education_level": "Bachelor",
+    "current_role": "Electronics Shop Worker",
+    "work_experience_years": 2,
+    "current_it_knowledge": "Hardware basics",
+    "history": [
+      {
+        "query": "IoT öyrənmək üçün nə lazımdır?",
+        "timestamp": "2025-02-02 08:30"
+      }
+    ]
+  },
+
+  {
+    "id": 519,
+    "name": "Lalə Mustafayeva",
+    "age": 20,
+    "general_interests": ["Kitab oxumaq", "Rəqs", "Psixologiya"],
+    "tech_interests": ["Product", "UX Research"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UX Research nədir?",
+        "timestamp": "2025-02-02 13:15"
+      }
+    ]
+  },
+
+  {
+    "id": 520,
+    "name": "Ramin Məmmədzadə",
+    "age": 29,
+    "general_interests": ["Biznes", "Boks", "Texnologiya"],
+    "tech_interests": ["Cloud", "Cybersecurity"],
+    "education_level": "Master",
+    "current_role": "IT Support Specialist",
+    "work_experience_years": 3,
+    "current_it_knowledge": "Intermediate networking",
+    "history": [
+      {
+        "query": "AWS və Azure hansı hallarda seçilir?",
+        "timestamp": "2025-02-01 22:09"
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Ülvi Səmədov",
+    "age": 23,
+    "general_interests": ["Futbol", "Startaplar", "Satış"],
+    "tech_interests": ["Frontend", "Product"],
+    "education_level": "Bachelor",
+    "current_role": "Sales Assistant",
+    "work_experience_years": 1,
+    "current_it_knowledge": "HTML basic",
+    "history": [
+      {
+        "query": "Frontend və product arasında fərq nədir?",
+        "timestamp": "2025-01-28 14:10"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Laman Cəfərova",
+    "age": 20,
+    "general_interests": ["Rəsm", "Psixologiya", "Kitab oxumaq"],
+    "tech_interests": ["UX Research"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UX Research üçün hansı bacarıqlar lazımdır?",
+        "timestamp": "2025-01-27 19:56"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Vüqar Məmmədov",
+    "age": 25,
+    "general_interests": ["Fitness", "Musiqi", "Podcast"],
+    "tech_interests": ["Backend"],
+    "education_level": "Bachelor",
+    "current_role": "Support Specialist",
+    "work_experience_years": 2,
+    "current_it_knowledge": "Python basics",
+    "history": [
+      {
+        "query": "Backend üçün hansı framework daha yaxşıdır?",
+        "timestamp": "2025-01-27 12:30"
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Aynur Qasımova",
+    "age": 21,
+    "general_interests": ["Moda", "Dizayn", "Yemək"],
+    "tech_interests": ["Graphic Design"],
+    "education_level": "Bachelor",
+    "current_role": "Freelance Designer",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Figma basic",
+    "history": [
+      {
+        "query": "Motion design nə qədər çətindir?",
+        "timestamp": "2025-01-26 18:22"
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Süleyman Əliyev",
+    "age": 27,
+    "general_interests": ["Avtomobillər", "Kino", "Səyahət"],
+    "tech_interests": ["DevOps", "Cloud"],
+    "education_level": "Bachelor",
+    "current_role": "Technical Support",
+    "work_experience_years": 3,
+    "current_it_knowledge": "Linux intermediate",
+    "history": [
+      {
+        "query": "DevOps üçün nə qədər kodlama lazımdır?",
+        "timestamp": "2025-01-25 20:04"
+      }
+    ]
+  },
+
+  {
+    "id": 526,
+    "name": "Gülnar Həsənli",
+    "age": 19,
+    "general_interests": ["Kitablar", "Rəqs", "Musiqi"],
+    "tech_interests": ["Frontend"],
+    "education_level": "High-school",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "CSS beginner",
+    "history": [
+      {
+        "query": "Frontend üçün hansı kompüter lazımdır?",
+        "timestamp": "2025-01-25 11:48"
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Eldəniz Şahverdiyev",
+    "age": 24,
+    "general_interests": ["Biznes", "Texnologiya", "Kitab"],
+    "tech_interests": ["Data Analysis"],
+    "education_level": "Bachelor",
+    "current_role": "Operations Assistant",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Excel intermediate",
+    "history": [
+      {
+        "query": "Data analitik olmaq üçün kodlama lazımdır?",
+        "timestamp": "2025-01-24 13:00"
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Zumrud Quliyeva",
+    "age": 22,
+    "general_interests": ["Psixologiya", "Ədəbiyyat", "Sosial media"],
+    "tech_interests": ["Digital Marketing"],
+    "education_level": "Bachelor",
+    "current_role": "Content Assistant",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Basic",
+    "history": [
+      {
+        "query": "SEO və SMM arasında fərq nədir?",
+        "timestamp": "2025-01-23 17:20"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Hüseyn Rəhmanov",
+    "age": 30,
+    "general_interests": ["Startaplar", "Karyera", "Texnologiya"],
+    "tech_interests": ["Product Management"],
+    "education_level": "Master",
+    "current_role": "Operations Manager",
+    "work_experience_years": 5,
+    "current_it_knowledge": "Intermediate",
+    "history": [
+      {
+        "query": "PM olmaq üçün IT bilikləri çox lazımdır?",
+        "timestamp": "2025-01-22 21:45"
+      }
+    ]
+  },
+
+  {
+    "id": 530,
+    "name": "Afsanə Əzimova",
+    "age": 21,
+    "general_interests": ["Dizayn", "Fotoqrafiya", "Memarlıq"],
+    "tech_interests": ["UI/UX"],
+    "education_level": "Bachelor",
+    "current_role": "Design Intern",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UX rəqəmsal məhsulda nə edir?",
+        "timestamp": "2025-01-22 16:12"
+      }
+    ]
+  },
+
+  {
+    "id": 531,
+    "name": "İlqar Nəsirov",
+    "age": 26,
+    "general_interests": ["Oyun", "Kino", "Texnologiya"],
+    "tech_interests": ["Cybersecurity"],
+    "education_level": "Bachelor",
+    "current_role": "Network Technician",
+    "work_experience_years": 2,
+    "current_it_knowledge": "Intermediate networking",
+    "history": [
+      {
+        "query": "Etik hacker olmaq üçün nədən başlamaq lazımdır?",
+        "timestamp": "2025-01-22 10:10"
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Aytac İsmayılova",
+    "age": 20,
+    "general_interests": ["Musiqi", "Filmlər", "Psixologiya"],
+    "tech_interests": ["Data Science"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "Data Science çətindirmi?",
+        "timestamp": "2025-01-21 19:30"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Qələndər Məlikov",
+    "age": 28,
+    "general_interests": ["Biznes", "Fitness", "Oyun"],
+    "tech_interests": ["Backend", "DevOps"],
+    "education_level": "Bachelor",
+    "current_role": "Customer Service",
+    "work_experience_years": 3,
+    "current_it_knowledge": "Python beginner",
+    "history": [
+      {
+        "query": "Backend developer üçün hansı yolu izləməliyəm?",
+        "timestamp": "2025-01-21 09:14"
+      }
+    ]
+  },
+
+  {
+    "id": 534,
+    "name": "Sevinc Məmmədli",
+    "age": 22,
+    "general_interests": ["Kitab oxumaq", "Moda", "Sosial media"],
+    "tech_interests": ["Digital Marketing", "UI/UX"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UI/UX ilə rəqəmsal marketinq arasında əlaqə varmı?",
+        "timestamp": "2025-01-20 20:02"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Tamerlan Səmədli",
+    "age": 24,
+    "general_interests": ["Səyahət", "Texnologiya", "Startap"],
+    "tech_interests": ["Cloud Engineering"],
+    "education_level": "Bachelor",
+    "current_role": "Support Engineer",
+    "work_experience_years": 2,
+    "current_it_knowledge": "Intermediate Linux",
+    "history": [
+      {
+        "query": "Cloud mühəndisi nə edir?",
+        "timestamp": "2025-01-20 15:11"
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Pəri Əliyeva",
+    "age": 21,
+    "general_interests": ["Psixologiya", "Moda", "Rəsm"],
+    "tech_interests": ["Frontend"],
+    "education_level": "Bachelor",
+    "current_role": "Student",
+    "work_experience_years": 0,
+    "current_it_knowledge": "HTML beginner",
+    "history": [
+      {
+        "query": "Frontend üçün hansı UI prinsiplərini bilməliyəm?",
+        "timestamp": "2025-01-20 10:44"
+      }
+    ]
+  },
+
+  {
+    "id": 537,
+    "name": "Sadiq Əliyev",
+    "age": 29,
+    "general_interests": ["Elektronika", "Startap", "Oyun"],
+    "tech_interests": ["IoT"],
+    "education_level": "Bachelor",
+    "current_role": "Electronics Technician",
+    "work_experience_years": 4,
+    "current_it_knowledge": "Hardware basics",
+    "history": [
+      {
+        "query": "IoT üçün hansı dillər lazımdır?",
+        "timestamp": "2025-01-19 21:50"
+      }
+    ]
+  },
+
+  {
+    "id": 538,
+    "name": "Turan Xəlilov",
+    "age": 23,
+    "general_interests": ["Basketbol", "YouTube", "Texnologiya"],
+    "tech_interests": ["Game Development", "AI"],
+    "education_level": "Bachelor",
+    "current_role": "Freelancer",
+    "work_experience_years": 1,
+    "current_it_knowledge": "C# basics",
+    "history": [
+      {
+        "query": "Game dev üçün hansı engine daha yaxşıdır?",
+        "timestamp": "2025-01-19 17:33"
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Lətafət Kərimli",
+    "age": 22,
+    "general_interests": ["Musiqi", "Avropa kinosu", "Dizayn"],
+    "tech_interests": ["UI/UX"],
+    "education_level": "Bachelor",
+    "current_role": "Intern",
+    "work_experience_years": 0,
+    "current_it_knowledge": "Beginner",
+    "history": [
+      {
+        "query": "UX nə iş görür?",
+        "timestamp": "2025-01-18 18:10"
+      }
+    ]
+  },
+
+  {
+    "id": 540,
+    "name": "Elvin Səmədov",
+    "age": 30,
+    "general_interests": ["Biznes", "Texnologiya", "Kitab oxumaq"],
+    "tech_interests": ["Business Analysis"],
+    "education_level": "Master",
+    "current_role": "Junior BA",
+    "work_experience_years": 1,
+    "current_it_knowledge": "Basic SQL",
+    "history": [
+      {
+        "query": "BA üçün hansı tools daha lazımdır?",
+        "timestamp": "2025-01-18 14:55"
+      }
+    ]
+  }
+]

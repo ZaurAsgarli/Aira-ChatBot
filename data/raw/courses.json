@@ -1,0 +1,932 @@
+[
+  {
+    "id": 101,
+    "title": "Python Backend İnkişafına Giriş",
+    "category": "Backend Development",
+    "sub_category": "Python / Django / FastAPI",
+    "tags": ["Python", "Django", "FastAPI", "REST API", "Backend Architecture"],
+    "difficulty": "Beginner",
+    "duration_hours": 22,
+    "mentor_id": 3,
+    "rating": 4.8,
+    "enrollment_count": 214,
+    "description": "Bu kurs Python backend inkişafına sıfırdan başlamaq istəyənlər üçün nəzərdə tutulub. HTTP protokolu, server tərəfli məntiq, routing, autentifikasiya sistemləri, ORM-lər və REST API-lərin dizaynı addım-addım izah olunur. Kurs həm Django, həm də FastAPI ilə real praktik layihələr üzərində işləməyə imkan yaradır.",
+    "skills_covered": [
+      "REST API dizaynı",
+      "Django ORM",
+      "FastAPI strukturu",
+      "Autentifikasiya və icazə idarəsi",
+      "PostgreSQL ilə data modelləşdirmə",
+      "Deployment əsasları"
+    ],
+    "learning_outcomes": [
+      "Tam işlək API yaratmaq",
+      "Database strukturu hazırlamaq",
+      "ORM ilə işləmə bacarığı",
+      "Backend memarlığının əsaslarını anlamaq"
+    ],
+    "prerequisites": [
+      "Əsas Python bilikləri",
+      "Konsoldan istifadə bacarığı"
+    ],
+    "content_outline": [
+      "Modul 1: Backend əsaslarına giriş",
+      "Modul 2: REST və HTTP",
+      "Modul 3: Django ilə API qurulması",
+      "Modul 4: FastAPI performans yanaşması",
+      "Modul 5: PostgreSQL və ORM",
+      "Modul 6: Docker ilə deployment",
+      "Final Proyekt"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 102,
+    "title": "Django ilə Web Tətbiqləri",
+    "category": "Backend Development",
+    "sub_category": "Django Framework",
+    "tags": ["Django", "Backend", "Python", "ORM", "Authentication"],
+    "difficulty": "Intermediate",
+    "duration_hours": 30,
+    "mentor_id": 3,
+    "rating": 4.9,
+    "enrollment_count": 173,
+    "description": "Django framework-ü ilə güclü və genişlənə bilən web tətbiqləri yaratmağı öyrənəcəksiniz. Model–View–Template (MVT) strukturu, ORM, admin panel, media və statik fayl idarəsi, təhlükəsizlik prinsipləri kimi mövzular real layihələr üzərindən izah olunur.",
+    "skills_covered": [
+      "Django MVT strukturu",
+      "Admin panel konfiqurasiyası",
+      "Security best practices",
+      "ORM ilə database idarəsi",
+      "Form və autentifikasiya sistemləri"
+    ],
+    "learning_outcomes": [
+      "Django-da tam web tətbiqi qura bilmək",
+      "ORM ilə data əlaqələrini idarə etmək",
+      "Layihələri production-a hazır hala gətirmək"
+    ],
+    "prerequisites": ["Python bilikləri", "Əsas backend anlayışı"],
+    "content_outline": [
+      "Modul 1: Django strukturu",
+      "Modul 2: Modeller və ORM",
+      "Modul 3: Formlar və autentifikasiya",
+      "Modul 4: Admin panel",
+      "Modul 5: Deployment",
+      "Final layihə"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 103,
+    "title": "FastAPI ilə Yüksək Performanslı API-lər",
+    "category": "Backend Development",
+    "sub_category": "FastAPI",
+    "tags": ["FastAPI", "Async Python", "APIs", "Docker", "OpenAPI"],
+    "difficulty": "Intermediate",
+    "duration_hours": 24,
+    "mentor_id": 3,
+    "rating": 4.8,
+    "enrollment_count": 122,
+    "description": "FastAPI Python-un ən sürətli backend framework-lərindən biridir. Bu kursda siz async əməliyyatlar, OpenAPI sənədləşdirməsi, Pydantic validasiyası, background tasks və Docker əsaslı deployment öyrənəcəksiniz.",
+    "skills_covered": [
+      "Async/await",
+      "Pydantic model validasiyası",
+      "OpenAPI sənədləşdirmə",
+      "Docker ilə deployment",
+      "Token-based authentication"
+    ],
+    "learning_outcomes": ["Performans yönlü API", "Async backend bacarığı"],
+    "prerequisites": ["Python orta səviyyə"],
+    "content_outline": [
+      "Modul 1: Niyə FastAPI?",
+      "Modul 2: Async Python",
+      "Modul 3: Pydantic",
+      "Modul 4: OpenAPI",
+      "Modul 5: Deployment",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 104,
+    "title": "SQL və PostgreSQL üzrə Praktik Təlim",
+    "category": "Databases",
+    "sub_category": "SQL / PostgreSQL",
+    "tags": ["SQL", "PostgreSQL", "Joins", "Functions", "Indexes"],
+    "difficulty": "Beginner",
+    "duration_hours": 15,
+    "mentor_id": 8,
+    "rating": 4.6,
+    "enrollment_count": 201,
+    "description": "SQL sorğularının işləmə prinsipləri, normalizasiya, indekslər, mürəkkəb join-lər, funksiyalar və real dünya database dizaynı haqqında əhatəli təlim.",
+    "skills_covered": ["DDL və DML", "Join növləri", "Indexes", "Query optimization"],
+    "learning_outcomes": [
+      "PostgreSQL ilə real database dizayn etmək",
+      "Optimize olunmuş sorğular yazmaq"
+    ],
+    "prerequisites": ["Heç bir tələb yoxdur"],
+    "content_outline": [
+      "Modul 1: SQL əsasları",
+      "Modul 2: Advanced Queries",
+      "Modul 3: PostgreSQL dizayn prinsipləri",
+      "Final tapşırıq"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 105,
+    "title": "Git və GitHub ilə Versiya İdarəetməsi",
+    "category": "Software Engineering",
+    "sub_category": "Version Control",
+    "tags": ["Git", "GitHub", "Branches", "Merge", "CI/CD"],
+    "difficulty": "Beginner",
+    "duration_hours": 10,
+    "mentor_id": 2,
+    "rating": 4.5,
+    "enrollment_count": 317,
+    "description": "Git-in əsas əmrləri, branching strategiyaları, pull request-lərin idarə olunması, GitHub Actions ilə CI/CD quruluşu praktiki şəkildə öyrədilir.",
+    "skills_covered": ["Git əmrləri", "Branching", "Merge konfliktləri"],
+    "learning_outcomes": ["Komanda ilə işləmə bacarığı"],
+    "prerequisites": ["Heç bir tələb yoxdur"],
+    "content_outline": [
+      "Modul 1: Git əsasları",
+      "Modul 2: Branching strategiyaları",
+      "Modul 3: GitHub Actions",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 106,
+    "title": "HTML, CSS və Responsive Dizayn",
+    "category": "Frontend Development",
+    "sub_category": "Web Fundamentals",
+    "tags": ["HTML", "CSS", "Responsive Design", "Flexbox", "Grid"],
+    "difficulty": "Beginner",
+    "duration_hours": 18,
+    "mentor_id": 2,
+    "rating": 4.6,
+    "enrollment_count": 390,
+    "description": "Frontend-in təməl texnologiyaları olan HTML və CSS sıfırdan izah edilir. Flexbox, CSS Grid, media query-lər və mobil uyğun dizayn prinsipləri real layihələr üzərində öyrədilir.",
+    "skills_covered": ["Flexbox", "Grid", "Responsive dizayn"],
+    "learning_outcomes": ["Landing page hazırlamaq"],
+    "prerequisites": ["Heç bir tələb yoxdur"],
+    "content_outline": [
+      "Modul 1: HTML təməli",
+      "Modul 2: CSS stil sistemi",
+      "Modul 3: Responsive dizayn",
+      "Final layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 107,
+    "title": "JavaScript Əsasları və DOM Manipulyasiyası",
+    "category": "Frontend Development",
+    "sub_category": "JavaScript",
+    "tags": ["JavaScript", "ES6", "DOM", "Async"],
+    "difficulty": "Beginner",
+    "duration_hours": 20,
+    "mentor_id": 2,
+    "rating": 4.7,
+    "enrollment_count": 280,
+    "description": "JavaScript-in əsas sintaksisi, dəyişənlər, massiv və obyekt strukturları, event-lər və DOM manipulyasiyası praktiki misallarla izah olunur.",
+    "skills_covered": ["ES6", "DOM API", "Async programming"],
+    "learning_outcomes": ["Dinamik web elementləri qurmaq"],
+    "prerequisites": ["HTML və CSS bilikləri"],
+    "content_outline": [
+      "Modul 1: JS sintaksisi",
+      "Modul 2: DOM idarəsi",
+      "Modul 3: Async JS",
+      "Layihə"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 108,
+    "title": "React ilə Tətbiq İnkişafı",
+    "category": "Frontend Development",
+    "sub_category": "React",
+    "tags": ["React", "Hooks", "Components", "State Management"],
+    "difficulty": "Intermediate",
+    "duration_hours": 25,
+    "mentor_id": 2,
+    "rating": 4.8,
+    "enrollment_count": 200,
+    "description": "React komponent memarlığı, Hooks, state və props idarəsi, router və API inteqrasiyası praktiki şəkildə öyrədilir.",
+    "skills_covered": ["Hooks", "Router", "Component architecture"],
+    "learning_outcomes": ["SPA hazırlamaq"],
+    "prerequisites": ["JavaScript orta səviyyə"],
+    "content_outline": [
+      "Modul 1: React komponentləri",
+      "Modul 2: Hooks",
+      "Modul 3: Routing",
+      "Modul 4: API inteqrasiyası",
+      "Final layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 109,
+    "title": "UI/UX Dizaynın Əsasları",
+    "category": "Design",
+    "sub_category": "UI/UX",
+    "tags": ["Figma", "Design Principles", "Wireframing"],
+    "difficulty": "Beginner",
+    "duration_hours": 14,
+    "mentor_id": 4,
+    "rating": 4.7,
+    "enrollment_count": 150,
+    "description": "İstifadəçi təcrübəsi prinsipləri, vizual iyerarxiya, rəng nəzəriyyəsi, wireframe hazırlığı və Figma praktikasını əhatə edir.",
+    "skills_covered": ["Wireframe", "Figma", "User experience"],
+    "learning_outcomes": ["Prototip hazırlamaq"],
+    "prerequisites": ["Heç bir tələb yoxdur"],
+    "content_outline": [
+      "Modul 1: UX prinsipləri",
+      "Modul 2: UI elementləri",
+      "Modul 3: Figma",
+      "Final tapşırıq"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 110,
+    "title": "Data Analitikası üçün Python",
+    "category": "Data Analysis",
+    "sub_category": "Python Analytics",
+    "tags": ["Pandas", "NumPy", "Data Cleaning"],
+    "difficulty": "Beginner",
+    "duration_hours": 20,
+    "mentor_id": 6,
+    "rating": 4.8,
+    "enrollment_count": 310,
+    "description": "Data analitikası üçün ən vacib Python kitabxanaları — Pandas, NumPy, Matplotlib real dataset-lərlə öyrədilir.",
+    "skills_covered": [
+      "Data cleaning",
+      "EDA",
+      "Visualization"
+    ],
+    "learning_outcomes": ["Data analizi bacarığı"],
+    "prerequisites": ["Python bilikləri"],
+    "content_outline": [
+      "Modul 1: Pandas",
+      "Modul 2: NumPy",
+      "Modul 3: Vizualizasiya",
+      "EDA layihəsi"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 121,
+    "title": "Machine Learning Əsasları və Modellərin Qurulması",
+    "category": "Machine Learning",
+    "sub_category": "Supervised & Unsupervised Learning",
+    "tags": ["Machine Learning", "Supervised", "Unsupervised", "Model Evaluation", "Python"],
+    "difficulty": "Intermediate",
+    "duration_hours": 28,
+    "mentor_id": 6,
+    "rating": 4.8,
+    "enrollment_count": 264,
+    "description": "Bu kurs maşın öyrənməsinin fundamentallarını praktiki yanaşma ilə öyrədir. Linear Regression, Logistic Regression, Decision Trees, Random Forests, Clustering, model qiymətləndirmə metodları və overfitting-in qarşısının alınması mövzularını real dataset-lərlə tədris edir.",
+    "skills_covered": [
+      "Regression modelləri",
+      "Classification",
+      "Model qiymətləndirmə (Accuracy, Recall, F1-score)",
+      "Cross-validation",
+      "Clustering"
+    ],
+    "learning_outcomes": [
+      "Əsas ML modellərini qura bilmək",
+      "Dataset-lərlə işləmək",
+      "Model performansını ölçmək və inkişaf etdirmək"
+    ],
+    "prerequisites": ["Python", "Pandas", "Əsas riyazi anlayışlar"],
+    "content_outline": [
+      "Modul 1: ML əsasları",
+      "Modul 2: Regression modelləri",
+      "Modul 3: Classification",
+      "Modul 4: Clustering",
+      "Modul 5: Model optimallaşdırma",
+      "Final layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 122,
+    "title": "Deep Learning və Neural Şəbəkələr",
+    "category": "Deep Learning",
+    "sub_category": "Neural Networks",
+    "tags": ["Deep Learning", "TensorFlow", "Keras", "Neural Networks", "Backpropagation"],
+    "difficulty": "Advanced",
+    "duration_hours": 35,
+    "mentor_id": 6,
+    "rating": 4.9,
+    "enrollment_count": 189,
+    "description": "Sinir şəbəkələrinin iş prinsiplərini sıfırdan izah edən kurs. TensorFlow və Keras üzərində Dense, CNN, RNN, Dropout, Batch Normalization kimi komponentləri praktik nümunələrlə öyrədir. Kurs həmçinin optimizasiya metodları və modelin generalizasiya bacarıqlarının artırılmasına fokuslanır.",
+    "skills_covered": [
+      "Neural Network memarlığı",
+      "Backpropagation",
+      "CNN və RNN",
+      "Model optimizasiya algoritmları",
+      "TensorFlow pipeline"
+    ],
+    "learning_outcomes": [
+      "Sinir şəbəkəsi qura bilmək",
+      "Dataset hazırlamaq",
+      "Modeli təlim etmək və optimallaşdırmaq"
+    ],
+    "prerequisites": ["Machine Learning əsasları"],
+    "content_outline": [
+      "Modul 1: Neural Network əsasları",
+      "Modul 2: TensorFlow",
+      "Modul 3: CNN",
+      "Modul 4: RNN/LSTM",
+      "Modul 5: Optimizasiya",
+      "Layihə"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 123,
+    "title": "Data Science Roadmap: A-dan Z-yə",
+    "category": "Data Science",
+    "sub_category": "Full Roadmap",
+    "tags": ["Data Science", "ML", "Statistics", "EDA", "Model Deployment"],
+    "difficulty": "Intermediate",
+    "duration_hours": 40,
+    "mentor_id": 6,
+    "rating": 4.8,
+    "enrollment_count": 245,
+    "description": "Data Science sahəsinə tam giriş. Statistika, ehtimal nəzəriyyəsi, EDA, ML modellərinin qurulması, feature engineering, model qiymətləndirmə və deployment prosesi addım-addım izah olunur.",
+    "skills_covered": [
+      "EDA",
+      "Statistika",
+      "ML modelləri",
+      "Feature engineering",
+      "Model deployment"
+    ],
+    "learning_outcomes": [
+      "DS workflow-nu tam anlamaq",
+      "ML modelləri qurmaq",
+      "Data pipeline yaratmaq"
+    ],
+    "prerequisites": ["Python", "Pandas"],
+    "content_outline": [
+      "Modul 1: DS workflow",
+      "Modul 2: Statistika",
+      "Modul 3: ML",
+      "Modul 4: Deployment",
+      "Final proyekt"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 124,
+    "title": "DevOps Fundamentals və CI/CD Praktikası",
+    "category": "DevOps",
+    "sub_category": "CI/CD",
+    "tags": ["DevOps", "Docker", "CI/CD", "Linux", "Automation"],
+    "difficulty": "Beginner",
+    "duration_hours": 18,
+    "mentor_id": 5,
+    "rating": 4.6,
+    "enrollment_count": 210,
+    "description": "Docker, Linux terminal əmrləri, CI/CD konseptləri və avtomatlaşdırılmış deployment proseslərinin təməlləri ilə tanış olacaqsınız. Real layihə üzərində təhlükəsizlik və optimizasiya nüansları da izah olunur.",
+    "skills_covered": [
+      "Docker container",
+      "CI/CD",
+      "GitHub Actions",
+      "Linux əsasları",
+      "Deployment optimizasiyası"
+    ],
+    "learning_outcomes": ["CI/CD pipeline qurmaq"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: DevOps nədir?",
+      "Modul 2: Linux",
+      "Modul 3: Docker",
+      "Modul 4: CI/CD",
+      "Layihə"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 125,
+    "title": "Cloud Computing: AWS ilə Başlanğıc",
+    "category": "Cloud",
+    "sub_category": "AWS",
+    "tags": ["AWS", "Cloud Computing", "EC2", "S3", "IAM"],
+    "difficulty": "Beginner",
+    "duration_hours": 16,
+    "mentor_id": 5,
+    "rating": 4.7,
+    "enrollment_count": 131,
+    "description": "AWS bulud xidmətlərinin əsasları: EC2, S3, IAM, VPC və serverlərin idarəetmə modelləri. Kurs bulud infrastrukturu barədə fundamental anlayış formalaşdırır.",
+    "skills_covered": ["EC2", "IAM", "Storage", "Cloud Security"],
+    "learning_outcomes": ["AWS-də infrastruktur yaratmaq"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: Cloud əsasları",
+      "Modul 2: EC2",
+      "Modul 3: S3",
+      "Modul 4: IAM",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 126,
+    "title": "Kibertəhlükəsizlik Fundamental Təlimi",
+    "category": "Cybersecurity",
+    "sub_category": "Network Security",
+    "tags": ["Cybersecurity", "Encryption", "Network Defense", "Firewalls"],
+    "difficulty": "Beginner",
+    "duration_hours": 20,
+    "mentor_id": 10,
+    "rating": 4.5,
+    "enrollment_count": 122,
+    "description": "Şəbəkə təhlükəsizliyi, firewall-ların iş prinsipi, şifrələmə metodları və real hücum ssenarilərinin analizini əhatə edən kurs.",
+    "skills_covered": ["Firewalls", "Encryption", "Security basics"],
+    "learning_outcomes": ["Şəbəkə təhlükəsizliyi bacarığı"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: Network Security",
+      "Modul 2: Encryption",
+      "Modul 3: Təhlükəsizlik analizləri",
+      "Final tapşırıq"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 127,
+    "title": "Frontend Roadmap: HTML-dən React-ə",
+    "category": "Frontend Development",
+    "sub_category": "Full Roadmap",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Responsive"],
+    "difficulty": "Beginner",
+    "duration_hours": 35,
+    "mentor_id": 2,
+    "rating": 4.8,
+    "enrollment_count": 390,
+    "description": "Frontend sahəsinə sıfırdan başlayanlar üçün tam yol xəritəsi. HTML, CSS, JavaScript və React birlikdə praktiki olaraq öyrədilir.",
+    "skills_covered": ["HTML/CSS", "JS", "React", "UI"],
+    "learning_outcomes": ["SPA və landing page hazırlamaq"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: Web əsasları",
+      "Modul 2: JS",
+      "Modul 3: React",
+      "Final layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 128,
+    "title": "iOS Development: Swift ilə Mobil Proqramlaşdırma",
+    "category": "Mobile Development",
+    "sub_category": "iOS",
+    "tags": ["iOS", "Swift", "Mobile Apps", "UIKit"],
+    "difficulty": "Intermediate",
+    "duration_hours": 27,
+    "mentor_id": 13,
+    "rating": 4.6,
+    "enrollment_count": 94,
+    "description": "Swift sintaksisi, UIKit komponentləri, ViewController strukturu və iOS ekosisteminin əsasları.",
+    "skills_covered": ["Swift", "UIKit"],
+    "learning_outcomes": ["iOS tətbiqi hazırlamaq"],
+    "prerequisites": ["OOP əsasları"],
+    "content_outline": [
+      "Modul 1: Swift",
+      "Modul 2: UIKit",
+      "Modul 3: Navigation",
+      "Layihə"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 129,
+    "title": "Android Development: Kotlin ilə Mobil Tətbiqlər",
+    "category": "Mobile Development",
+    "sub_category": "Android",
+    "tags": ["Android", "Kotlin", "Mobile Apps"],
+    "difficulty": "Intermediate",
+    "duration_hours": 26,
+    "mentor_id": 12,
+    "rating": 4.7,
+    "enrollment_count": 110,
+    "description": "Kotlin sintaksisi, Activity-lər, Fragment-lər, Jetpack komponentləri və API inteqrasiyası ilə tam Android tətbiqi inkişafı.",
+    "skills_covered": ["Kotlin", "Android Jetpack"],
+    "learning_outcomes": ["Mobil tətbiq hazırlamaq"],
+    "prerequisites": ["OOP"],
+    "content_outline": [
+      "Modul 1: Kotlin",
+      "Modul 2: Jetpack",
+      "Modul 3: API",
+      "Proyekt"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 130,
+    "title": "Product Management Fundamental Təlimi",
+    "category": "Product",
+    "sub_category": "PM",
+    "tags": ["Product Management", "Roadmap", "Agile"],
+    "difficulty": "Beginner",
+    "duration_hours": 14,
+    "mentor_id": 16,
+    "rating": 4.6,
+    "enrollment_count": 102,
+    "description": "PM rolunun əsasları, istifadəçi tələbləri analizi və roadmap hazırlığı.",
+    "skills_covered": ["Roadmap", "User research"],
+    "learning_outcomes": ["PM workflow başa düşmək"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: PM rolu",
+      "Modul 2: User research",
+      "Modul 3: Roadmap",
+      "Tapşırıq"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 131,
+    "title": "Business Analytics və Data-driven Decision Making",
+    "category": "Business",
+    "sub_category": "Analytics",
+    "tags": ["Analytics", "Business", "Data-driven"],
+    "difficulty": "Intermediate",
+    "duration_hours": 18,
+    "mentor_id": 17,
+    "rating": 4.7,
+    "enrollment_count": 136,
+    "description": "Biznes proseslərinin analizi və data əsaslı qərarvermə modelləri.",
+    "skills_covered": ["KPIs", "Analysis"],
+    "learning_outcomes": ["Data-driven qərarlar vermək"],
+    "prerequisites": ["Excel"],
+    "content_outline": [
+      "Modul 1: Biznes analizi",
+      "Modul 2: KPI ölçümü",
+      "Modul 3: Data-driven model",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 132,
+    "title": "Sistem Administratorluğu və Linux Server İdarəetməsi",
+    "category": "IT Infrastructure",
+    "sub_category": "System Admin",
+    "tags": ["SysAdmin", "Linux", "Servers"],
+    "difficulty": "Intermediate",
+    "duration_hours": 20,
+    "mentor_id": 5,
+    "rating": 4.6,
+    "enrollment_count": 88,
+    "description": "Linux serverlərinin idarəsi, istifadəçi icazələri, cron job-lar və server təhlükəsizliyi.",
+    "skills_covered": ["Linux", "Shell"],
+    "learning_outcomes": ["Server idarəetmə"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: Linux",
+      "Modul 2: Permissions",
+      "Modul 3: Security",
+      "Final"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 141,
+    "title": "Full-Stack Web İnkişafı: Backend + Frontend",
+    "category": "Full-Stack Development",
+    "sub_category": "Web Development",
+    "tags": ["Full-Stack", "React", "Django", "API", "PostgreSQL"],
+    "difficulty": "Intermediate",
+    "duration_hours": 42,
+    "mentor_id": 3,
+    "rating": 4.8,
+    "enrollment_count": 250,
+    "description": "Full-stack developer olmaq istəyənlər üçün geniş proqram. React ilə frontend, Django ilə backend, PostgreSQL ilə məlumat bazası və Git workflow-u real layihə üzərindən öyrədilir. Kursda həmçinin deployment və optimizasiya da izah olunur.",
+    "skills_covered": [
+      "React komponent memarlığı",
+      "Django API-ləri",
+      "Database modelləşdirmə",
+      "API inteqrasiyası",
+      "Deployment"
+    ],
+    "learning_outcomes": [
+      "Tam işlək full-stack tətbiq hazırlamaq",
+      "Frontend və backend arasında inteqrasiyanı mənimsəmək"
+    ],
+    "prerequisites": ["JS əsasları", "Python əsasları"],
+    "content_outline": [
+      "Modul 1: Frontend arxitekturası",
+      "Modul 2: Backend API-ləri",
+      "Modul 3: Full-stack inteqrasiya",
+      "Modul 4: Deployment",
+      "Final layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 142,
+    "title": "UI/UX Advanced: Professional Prototyping və Design Systems",
+    "category": "Design",
+    "sub_category": "UI/UX Advanced",
+    "tags": ["Figma", "Design Systems", "Prototyping", "UX Research"],
+    "difficulty": "Advanced",
+    "duration_hours": 30,
+    "mentor_id": 4,
+    "rating": 4.9,
+    "enrollment_count": 134,
+    "description": "Bu kurs UI/UX sahəsində müəyyən təcrübəsi olan dizaynerlər üçündür. Design systems, interactive prototyping, UX research metodları və istifadəyə yararlılıq testlərinin aparılması praktiki şəkildə izah olunur.",
+    "skills_covered": [
+      "Design system qurulması",
+      "Interactive prototyping",
+      "UX research",
+      "Usability testing"
+    ],
+    "learning_outcomes": ["Professional səviyyədə UI/UX layihələri hazırlamaq"],
+    "prerequisites": ["UI/UX əsasları"],
+    "content_outline": [
+      "Modul 1: Design Systems",
+      "Modul 2: Advanced Prototyping",
+      "Modul 3: UX Research",
+      "Modul 4: User Testing"
+    ],
+    "group_available": false,
+    "course_creator_type": "creator",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 143,
+    "title": "Advanced SQL və Data Warehouse Sistemləri",
+    "category": "Databases",
+    "sub_category": "SQL Advanced / Data Engineering",
+    "tags": ["SQL", "PostgreSQL", "ETL", "Data Warehouse", "Indexes"],
+    "difficulty": "Advanced",
+    "duration_hours": 32,
+    "mentor_id": 8,
+    "rating": 4.7,
+    "enrollment_count": 178,
+    "description": "Advanced SQL sorğuları, performans optimizasiyası, indeks strukturları, ETL prosesi, OLAP və Data Warehouse memarlığı bu kursda dərindən izah olunur.",
+    "skills_covered": [
+      "Complex joins",
+      "CTE və window functions",
+      "Indexes və optimizasiya",
+      "ETL pipeline",
+      "Data warehouse dizaynı"
+    ],
+    "learning_outcomes": [
+      "Böyük həcmli datalarla işləmə bacarığı",
+      "Performanslı data strukturları yaratmaq"
+    ],
+    "prerequisites": ["Basic SQL"],
+    "content_outline": [
+      "Modul 1: Advanced SQL",
+      "Modul 2: Query optimizasiya",
+      "Modul 3: ETL pipeline",
+      "Modul 4: Data warehouse modelləri"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 144,
+    "title": "Business Intelligence: Power BI ilə Analitika",
+    "category": "Business Intelligence",
+    "sub_category": "Power BI",
+    "tags": ["Power BI", "DAX", "Dashboards", "Business Analytics"],
+    "difficulty": "Beginner",
+    "duration_hours": 18,
+    "mentor_id": 17,
+    "rating": 4.8,
+    "enrollment_count": 260,
+    "description": "Power BI ilə məlumatların vizual analizi, daxili hesabatlar, dashboard dizaynı, DAX formul sistemi və real biznes datalarının interpretasiyası.",
+    "skills_covered": ["DAX", "Dashboard dizaynı", "Data modeling"],
+    "learning_outcomes": [
+      "Biznes üçün dashboard hazırlamaq",
+      "Analitik təhlil bacarığı"
+    ],
+    "prerequisites": ["Excel"],
+    "content_outline": [
+      "Modul 1: Power BI nəzəriyyəsi",
+      "Modul 2: DAX",
+      "Modul 3: Dashboard dizaynı",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "creator",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 145,
+    "title": "QA Engineering: Manual və Automation Təlimi",
+    "category": "QA / Testing",
+    "sub_category": "Manual + Automation",
+    "tags": ["QA", "Testing", "Selenium", "Test Cases", "Automation"],
+    "difficulty": "Intermediate",
+    "duration_hours": 28,
+    "mentor_id": 11,
+    "rating": 4.6,
+    "enrollment_count": 140,
+    "description": "Manual testlər, sənədləşmə, test-case yazılması, regression testing və Selenium ilə automation test yazılması.",
+    "skills_covered": [
+      "Manual testing",
+      "Regression",
+      "Selenium automation"
+    ],
+    "learning_outcomes": ["Automation testləri yazmaq"],
+    "prerequisites": ["Əsas IT bilikləri"],
+    "content_outline": [
+      "Modul 1: Manual testing",
+      "Modul 2: Automation",
+      "Modul 3: Selenium",
+      "Final tapşırıq"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 146,
+    "title": "Rəqəmsal Marketinq və SEO Strategiyaları",
+    "category": "Marketing",
+    "sub_category": "SEO / Digital Marketing",
+    "tags": ["SEO", "Marketing", "Content Strategy", "Analytics"],
+    "difficulty": "Beginner",
+    "duration_hours": 16,
+    "mentor_id": 18,
+    "rating": 4.7,
+    "enrollment_count": 198,
+    "description": "SEO optimizasiya prinsipləri, content strategiya hazırlığı və rəqəmsal kampaniyaların ölçülməsi.",
+    "skills_covered": ["SEO tools", "Content marketing"],
+    "learning_outcomes": ["SEO audit aparmaq"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: SEO əsasları",
+      "Modul 2: Content",
+      "Modul 3: Analytics"
+    ],
+    "group_available": true,
+    "course_creator_type": "creator",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 147,
+    "title": "Laravel ilə Backend İnkişafı",
+    "category": "Backend Development",
+    "sub_category": "PHP / Laravel",
+    "tags": ["Laravel", "PHP", "Backend", "API"],
+    "difficulty": "Intermediate",
+    "duration_hours": 26,
+    "mentor_id": 20,
+    "rating": 4.6,
+    "enrollment_count": 102,
+    "description": "Laravel framework-ü ilə REST API-lər, Blade templating, middleware və database modelləşdirmə.",
+    "skills_covered": ["Laravel ORM", "Middleware"],
+    "learning_outcomes": ["Laravel API yaratmaq"],
+    "prerequisites": ["PHP əsasları"],
+    "content_outline": [
+      "Modul 1: Laravel strukturu",
+      "Modul 2: ORM",
+      "Modul 3: Middleware",
+      "Proyekt"
+    ],
+    "group_available": false,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 148,
+    "title": "Blockchain və Smart Contract İnkişafı",
+    "category": "Blockchain",
+    "sub_category": "Solidity / Ethereum",
+    "tags": ["Solidity", "Blockchain", "Smart Contracts", "Web3"],
+    "difficulty": "Advanced",
+    "duration_hours": 34,
+    "mentor_id": 21,
+    "rating": 4.8,
+    "enrollment_count": 96,
+    "description": "Ethereum blockchain strukturu, Solidity sintaksisi, smart contract-ların yazılması və test olunması, gas optimizasiyası.",
+    "skills_covered": [
+      "Solidity",
+      "Smart contract testləri",
+      "Web3 inteqrasiyası"
+    ],
+    "learning_outcomes": ["Smart contract-lar yazmaq"],
+    "prerequisites": ["JS", "OOP"],
+    "content_outline": [
+      "Modul 1: Blockchain",
+      "Modul 2: Solidity",
+      "Modul 3: Contract testləri",
+      "Layihə"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+  {
+    "id": 149,
+    "title": "Game Development: Unity ilə Oyun İnkişafı",
+    "category": "Game Development",
+    "sub_category": "Unity / C#",
+    "tags": ["Unity", "C#", "Game Dev", "3D Modeling"],
+    "difficulty": "Beginner",
+    "duration_hours": 25,
+    "mentor_id": 22,
+    "rating": 4.7,
+    "enrollment_count": 152,
+    "description": "Unity engine istifadə edərək 2D və 3D oyunların yaradılması, C# skriptləri, obyekt idarəsi və oyun mexanikaları.",
+    "skills_covered": ["Unity", "C#", "Game logic"],
+    "learning_outcomes": ["Oyun yaratmaq"],
+    "prerequisites": [],
+    "content_outline": [
+      "Modul 1: Unity əsasları",
+      "Modul 2: C# scripts",
+      "Modul 3: Game objects",
+      "Final oyun"
+    ],
+    "group_available": true,
+    "course_creator_type": "mentor",
+    "languages": ["Azərbaycan dili"]
+  },
+
+  {
+    "id": 150,
+    "title": "Məlumat Vizualizasiyası: Matplotlib və Seaborn",
+    "category": "Data Visualization",
+    "sub_category": "Python Visualization",
+    "tags": ["Visualization", "Pandas", "Matplotlib", "Seaborn"],
+    "difficulty": "Beginner",
+    "duration_hours": 14,
+    "mentor_id": 6,
+    "rating": 4.8,
+    "enrollment_count": 175,
+    "description": "Matplotlib və Seaborn kitabxanaları ilə data vizualizasiyasının əsaslarını praktiki nümunələrlə öyrədir.",
+    "skills_covered": ["Plotting", "EDA"],
+    "learning_outcomes": ["Vizual analiz bacarığı"],
+    "prerequisites": ["Python"],
+    "content_outline": [
+      "Modul 1: Matplotlib",
+      "Modul 2: Seaborn",
+      "Modul 3: Dashboard-like vizualizasiya"
+    ],
+    "group_available": false,
+    "course_creator_type": "creator",
+    "languages": ["Azərbaycan dili"]
+  }
+]
