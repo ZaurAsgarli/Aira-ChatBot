@@ -405,21 +405,21 @@ class MatchingEngine:
     def _build_popular_fallback(
         self, query: str
     ) -> Tuple[str, List[Recommendation]]:
-        """Popular fallback - NEVER returns empty!"""
+        """Popular fallback - NEVER returns empty! Marks as ALTERNATIVE."""
         recommendations = []
         
         context = f"""
-🏆 **[POPULYAR KURSLAR]** - '{query}' üçün tam uyğun kurs tapılmadı.
+🏆 **[MATCH: ALTERNATIVE]** - '{query}' üçün tam uyğun kurs tapılmadı.
 
-Amma ən çox seçilən kurslarımızı tövsiyə edirəm:
+⚠️ Bu ALTERNATİV tövsiyələrdir. İstifadəçiyə izah et ki, dəqiq kurs yoxdur amma bu kurslar faydalı ola bilər:
 
 """
         
         for course in BESTSELLER_COURSES[:4]:
-            context += self._format_bestseller_context(course, "POPULAR") + "\n\n"
-            recommendations.append(self._bestseller_to_rec(course, "POPULAR"))
+            context += self._format_bestseller_context(course, "ALTERNATIVE") + "\n\n"
+            recommendations.append(self._bestseller_to_rec(course, "ALTERNATIVE"))
         
-        context += "\n💡 **Məsləhət:** Konkret sahə maraqlandırırsa, deyin - daha dəqiq təklif verəcəm!\n"
+        context += "\n💡 **Qeyd:** Bu alternativ tövsiyələrdir. Dəqiq kurs üçün başqa mövzu sual et!\n"
         
         return context.strip(), recommendations
 
