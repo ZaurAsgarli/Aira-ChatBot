@@ -1,0 +1,3722 @@
+[
+  {
+    "id": 1,
+    "ad": "Anar Orucov",
+    "yas": 37,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Anar Orucov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bank Respublika",
+      "Sinam",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "FastAPI",
+      "Microservices",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 47
+  },
+  {
+    "id": 2,
+    "ad": "Anar Sultanov",
+    "yas": 28,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Frontend Development",
+    "bio": "Anar Sultanov 9 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "Bakcell",
+      "Nikoil Bank"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "Vue.js",
+      "HTML",
+      "CSS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 3,
+    "ad": "Pəri Rzayev",
+    "yas": 45,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 12,
+    "ixtisas": "UI/UX Design",
+    "bio": "Pəri Rzayev 12 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Wolt",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Prototyping",
+      "Figma",
+      "UI/UX",
+      "User Research"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 81
+  },
+  {
+    "id": 4,
+    "ad": "Emin Məmmədov",
+    "yas": 45,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 11,
+    "ixtisas": "UI/UX Design",
+    "bio": "Emin Məmmədov 11 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "Delta Telecom",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "Design Systems",
+      "Figma",
+      "Prototyping",
+      "UI/UX"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 86
+  },
+  {
+    "id": 5,
+    "ad": "Aytac Məmmədzadə",
+    "yas": 43,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Aytac Məmmədzadə 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Unibank",
+      "Azercell",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "FastAPI",
+      "Microservices",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 45
+  },
+  {
+    "id": 6,
+    "ad": "Şahin Sultanov",
+    "yas": 31,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Backend Development",
+    "bio": "Şahin Sultanov 3 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "SimurLabs",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "FastAPI",
+      "Microservices",
+      "API Design",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 53
+  },
+  {
+    "id": 7,
+    "ad": "Günel Əlizadə",
+    "yas": 28,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Günel Əlizadə 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "ATL Tech",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "FastAPI",
+      "API Design",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 50
+  },
+  {
+    "id": 8,
+    "ad": "Vəli Rzayev",
+    "yas": 30,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Cybersecurity",
+    "bio": "Vəli Rzayev 8 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Delta Telecom",
+      "Azintelekom",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Penetration Testing",
+      "Firewalls",
+      "Network Security",
+      "SIEM"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 66
+  },
+  {
+    "id": 9,
+    "ad": "Səid Həsənov",
+    "yas": 38,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Mobile Development",
+    "bio": "Səid Həsənov 5 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SOCAR",
+      "Sinam",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "Kotlin",
+      "Swift",
+      "iOS",
+      "Flutter"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 67
+  },
+  {
+    "id": 10,
+    "ad": "Kamran Kərimov",
+    "yas": 27,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Kamran Kərimov 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bank Respublika",
+      "SOCAR",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "FastAPI",
+      "Microservices",
+      "Node.js",
+      "API Design"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 66
+  },
+  {
+    "id": 11,
+    "ad": "Leyla Rəhimov",
+    "yas": 44,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Leyla Rəhimov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "SOCAR",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Microservices",
+      "Django",
+      "Python",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 51
+  },
+  {
+    "id": 12,
+    "ad": "Leyla Qurbanov",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 10,
+    "ixtisas": "Backend Development",
+    "bio": "Leyla Qurbanov 10 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Bolt",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "Microservices",
+      "FastAPI",
+      "Django",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 87
+  },
+  {
+    "id": 13,
+    "ad": "Əli Abbaslı",
+    "yas": 42,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Frontend Development",
+    "bio": "Əli Abbaslı 9 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Azintelekom",
+      "Azersun"
+    ],
+    "bacariqlar": [
+      "Next.js",
+      "JavaScript",
+      "React",
+      "CSS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 100
+  },
+  {
+    "id": 14,
+    "ad": "Nərmin Nəcəfov",
+    "yas": 31,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Frontend Development",
+    "bio": "Nərmin Nəcəfov 9 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "Bakcell",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "CSS",
+      "HTML",
+      "Vue.js",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 91
+  },
+  {
+    "id": 15,
+    "ad": "Fərid Sultanov",
+    "yas": 25,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "UI/UX Design",
+    "bio": "Fərid Sultanov 4 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "SOCAR",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "UI/UX",
+      "User Research",
+      "Figma",
+      "Prototyping"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 43
+  },
+  {
+    "id": 16,
+    "ad": "Rəşad Abbaslı",
+    "yas": 44,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Data Science",
+    "bio": "Rəşad Abbaslı 8 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bank Respublika",
+      "Bakcell",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 74
+  },
+  {
+    "id": 17,
+    "ad": "Nurlan Quliyev",
+    "yas": 30,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 2,
+    "ixtisas": "Mobile Development",
+    "bio": "Nurlan Quliyev 2 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Unibank",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Swift",
+      "Kotlin",
+      "React Native",
+      "Flutter"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 59
+  },
+  {
+    "id": 18,
+    "ad": "Orxan Məmmədzadə",
+    "yas": 41,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 1,
+    "ixtisas": "Cybersecurity",
+    "bio": "Orxan Məmmədzadə 1 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "Azersun",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "Linux",
+      "Penetration Testing",
+      "Network Security",
+      "Firewalls"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 51
+  },
+  {
+    "id": 19,
+    "ad": "Rövşən Ağayev",
+    "yas": 39,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Cybersecurity",
+    "bio": "Rövşən Ağayev 7 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "Bakcell",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Network Security",
+      "SIEM",
+      "Linux",
+      "Penetration Testing"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 60
+  },
+  {
+    "id": 20,
+    "ad": "Sevinc Xəlilov",
+    "yas": 44,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Sevinc Xəlilov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azersun",
+      "Azercell",
+      "Azintelekom"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Microservices",
+      "Python",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 61
+  },
+  {
+    "id": 21,
+    "ad": "Elnur Əlizadə",
+    "yas": 28,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Data Science",
+    "bio": "Elnur Əlizadə 4 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Kapital Bank",
+      "Delta Telecom"
+    ],
+    "bacariqlar": [
+      "Data Analysis",
+      "Python",
+      "Machine Learning",
+      "Scikit-learn"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 43
+  },
+  {
+    "id": 22,
+    "ad": "Ramin Hüseynov",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 14,
+    "ixtisas": "Data Science",
+    "bio": "Ramin Hüseynov 14 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Kapital Bank",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "Scikit-learn",
+      "SQL",
+      "Machine Learning",
+      "Pandas"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 93
+  },
+  {
+    "id": 23,
+    "ad": "Vüqar Orucov",
+    "yas": 35,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 11,
+    "ixtisas": "Backend Development",
+    "bio": "Vüqar Orucov 11 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "SOCAR",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "PostgreSQL",
+      "Node.js",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 99
+  },
+  {
+    "id": 24,
+    "ad": "Aysel Ağayev",
+    "yas": 25,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Backend Development",
+    "bio": "Aysel Ağayev 3 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Bakcell",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "FastAPI",
+      "Django",
+      "API Design"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 47
+  },
+  {
+    "id": 25,
+    "ad": "Leyla Abbaslı",
+    "yas": 43,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Leyla Abbaslı 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azersun",
+      "SimurLabs",
+      "Sinam"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "API Design",
+      "PostgreSQL",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 69
+  },
+  {
+    "id": 26,
+    "ad": "Sevinc Əliyev",
+    "yas": 31,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Backend Development",
+    "bio": "Sevinc Əliyev 15 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "SOCAR",
+      "Azersun"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Django",
+      "API Design",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 99
+  },
+  {
+    "id": 27,
+    "ad": "Səid Qasımov",
+    "yas": 27,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 11,
+    "ixtisas": "Mobile Development",
+    "bio": "Səid Qasımov 11 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bank Respublika",
+      "PASHA Bank",
+      "Sinam"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Kotlin",
+      "Swift",
+      "iOS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 100
+  },
+  {
+    "id": 28,
+    "ad": "Lalə Xəlilov",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Frontend Development",
+    "bio": "Lalə Xəlilov 13 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "Delta Telecom",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "TypeScript",
+      "React",
+      "CSS",
+      "Vue.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 29,
+    "ad": "Aydın İbrahimov",
+    "yas": 27,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Backend Development",
+    "bio": "Aydın İbrahimov 3 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Azersun",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "FastAPI",
+      "PostgreSQL",
+      "Microservices",
+      "API Design"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 57
+  },
+  {
+    "id": 30,
+    "ad": "Aynur Rəhimov",
+    "yas": 29,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Product Management",
+    "bio": "Aynur Rəhimov 4 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Nikoil Bank",
+      "Trendyol",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "Agile",
+      "Roadmapping",
+      "Product Strategy",
+      "Stakeholder Management"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 59
+  },
+  {
+    "id": 31,
+    "ad": "Rasim Qurbanov",
+    "yas": 28,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Rasim Qurbanov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Bakcell",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Django",
+      "API Design",
+      "Microservices",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 46
+  },
+  {
+    "id": 32,
+    "ad": "Ülvi Sultanov",
+    "yas": 45,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 6,
+    "ixtisas": "UI/UX Design",
+    "bio": "Ülvi Sultanov 6 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Unibank",
+      "ABB",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "Prototyping",
+      "Figma",
+      "User Research",
+      "UI/UX"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 65
+  },
+  {
+    "id": 33,
+    "ad": "Əkbər Rəhimov",
+    "yas": 31,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Product Management",
+    "bio": "Əkbər Rəhimov 3 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Delta Telecom",
+      "Azintelekom",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Stakeholder Management",
+      "Product Strategy",
+      "Agile",
+      "Roadmapping"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 55
+  },
+  {
+    "id": 34,
+    "ad": "Samir Hüseynli",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Frontend Development",
+    "bio": "Samir Hüseynli 7 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "Trendyol",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "React",
+      "CSS",
+      "JavaScript",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 76
+  },
+  {
+    "id": 35,
+    "ad": "Lalə İsmayılov",
+    "yas": 41,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Mobile Development",
+    "bio": "Lalə İsmayılov 13 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Sinam",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Kotlin",
+      "Android",
+      "Swift"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 36,
+    "ad": "Tural Rəhimov",
+    "yas": 44,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Data Science",
+    "bio": "Tural Rəhimov 15 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SOCAR",
+      "Delta Telecom",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "Machine Learning",
+      "Scikit-learn",
+      "Data Analysis"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 88
+  },
+  {
+    "id": 37,
+    "ad": "Əkbər Rzayev",
+    "yas": 44,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Data Science",
+    "bio": "Əkbər Rzayev 5 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Delta Telecom",
+      "Sinam",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "Scikit-learn",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 68
+  },
+  {
+    "id": 38,
+    "ad": "Ramil Əlizadə",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Backend Development",
+    "bio": "Ramil Əlizadə 9 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Expressbank",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Django",
+      "PostgreSQL",
+      "API Design",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 93
+  },
+  {
+    "id": 39,
+    "ad": "Rauf İbrahimov",
+    "yas": 44,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 2,
+    "ixtisas": "Frontend Development",
+    "bio": "Rauf İbrahimov 2 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "SOCAR",
+      "Azintelekom"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 51
+  },
+  {
+    "id": 40,
+    "ad": "Əli İbrahimov",
+    "yas": 45,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Backend Development",
+    "bio": "Əli İbrahimov 13 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "Delta Telecom",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "Microservices",
+      "Python",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 99
+  },
+  {
+    "id": 41,
+    "ad": "Zaur Məmmədzadə",
+    "yas": 38,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Backend Development",
+    "bio": "Zaur Məmmədzadə 9 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Unibank",
+      "Nikoil Bank"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "Microservices",
+      "API Design",
+      "PostgreSQL"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 96
+  },
+  {
+    "id": 42,
+    "ad": "Leyla Rəhimov",
+    "yas": 30,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 6,
+    "ixtisas": "Data Science",
+    "bio": "Leyla Rəhimov 6 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Delta Telecom",
+      "ATL Tech"
+    ],
+    "bacariqlar": [
+      "Scikit-learn",
+      "Pandas",
+      "Python",
+      "Data Analysis"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 75
+  },
+  {
+    "id": 43,
+    "ad": "Lalə Əlizadə",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Lalə Əlizadə 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "PASHA Bank",
+      "ATL Tech"
+    ],
+    "bacariqlar": [
+      "Python",
+      "FastAPI",
+      "Node.js",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 71
+  },
+  {
+    "id": 44,
+    "ad": "Fəxri İsmayılov",
+    "yas": 26,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "UI/UX Design",
+    "bio": "Fəxri İsmayılov 8 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "Bolt",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "Prototyping",
+      "User Research",
+      "Figma",
+      "UI/UX"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 60
+  },
+  {
+    "id": 45,
+    "ad": "İlham Əlizadə",
+    "yas": 34,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Cybersecurity",
+    "bio": "İlham Əlizadə 8 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "SimurLabs",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Linux",
+      "Firewalls",
+      "Network Security",
+      "Penetration Testing"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 66
+  },
+  {
+    "id": 46,
+    "ad": "Arzu Cəfərov",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 12,
+    "ixtisas": "Product Management",
+    "bio": "Arzu Cəfərov 12 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Azintelekom",
+      "Nikoil Bank"
+    ],
+    "bacariqlar": [
+      "Product Strategy",
+      "Stakeholder Management",
+      "Roadmapping",
+      "Agile"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 98
+  },
+  {
+    "id": 47,
+    "ad": "Cavid Əlizadə",
+    "yas": 38,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 11,
+    "ixtisas": "Frontend Development",
+    "bio": "Cavid Əlizadə 11 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "Sinam",
+      "Azintelekom"
+    ],
+    "bacariqlar": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 89
+  },
+  {
+    "id": 48,
+    "ad": "Samir Əhmədov",
+    "yas": 26,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Product Management",
+    "bio": "Samir Əhmədov 4 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Delta Telecom",
+      "Kapital Bank",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "Stakeholder Management",
+      "Product Strategy",
+      "Agile",
+      "Roadmapping"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 63
+  },
+  {
+    "id": 49,
+    "ad": "Səid Məlikzadə",
+    "yas": 29,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 1,
+    "ixtisas": "Product Management",
+    "bio": "Səid Məlikzadə 1 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "Bank Respublika",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "Stakeholder Management",
+      "Agile",
+      "Product Strategy",
+      "Roadmapping"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 52
+  },
+  {
+    "id": 50,
+    "ad": "Fəxri Vəliyev",
+    "yas": 32,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Mobile Development",
+    "bio": "Fəxri Vəliyev 13 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Azersun",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "Kotlin",
+      "Android",
+      "Flutter",
+      "React Native"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 89
+  },
+  {
+    "id": 51,
+    "ad": "Aytac Nəcəfov",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Frontend Development",
+    "bio": "Aytac Nəcəfov 13 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "Trendyol",
+      "Sinam"
+    ],
+    "bacariqlar": [
+      "HTML",
+      "Next.js",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 96
+  },
+  {
+    "id": 52,
+    "ad": "Ramin Səfərov",
+    "yas": 41,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Ramin Səfərov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Unibank",
+      "Bakcell",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "PostgreSQL",
+      "Microservices",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 51
+  },
+  {
+    "id": 53,
+    "ad": "Səid Babayev",
+    "yas": 25,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "UI/UX Design",
+    "bio": "Səid Babayev 4 illik təcrübəsi ilə UI/UX Design sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Nikoil Bank",
+      "Bakcell",
+      "Delta Telecom"
+    ],
+    "bacariqlar": [
+      "Prototyping",
+      "Figma",
+      "User Research",
+      "Design Systems"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "UI/UX Design expertise",
+    "skill_score": 55
+  },
+  {
+    "id": 54,
+    "ad": "Səbinə Babayev",
+    "yas": 42,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Mobile Development",
+    "bio": "Səbinə Babayev 5 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "ATL Tech",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Flutter",
+      "iOS",
+      "Kotlin"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 79
+  },
+  {
+    "id": 55,
+    "ad": "Elçin Nəcəfov",
+    "yas": 38,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Data Science",
+    "bio": "Elçin Nəcəfov 4 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Delta Telecom",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "Data Analysis",
+      "Machine Learning",
+      "SQL"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 62
+  },
+  {
+    "id": 56,
+    "ad": "Əkbər Quliyev",
+    "yas": 41,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Data Science",
+    "bio": "Əkbər Quliyev 4 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Wolt",
+      "ATL Tech"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "SQL",
+      "Scikit-learn",
+      "Data Analysis"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 67
+  },
+  {
+    "id": 57,
+    "ad": "Ləman Əhmədov",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Frontend Development",
+    "bio": "Ləman Əhmədov 3 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Bakcell",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "TypeScript",
+      "HTML",
+      "Next.js",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 46
+  },
+  {
+    "id": 58,
+    "ad": "Rüstəm Əhmədov",
+    "yas": 26,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Cybersecurity",
+    "bio": "Rüstəm Əhmədov 15 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Trendyol",
+      "Kapital Bank"
+    ],
+    "bacariqlar": [
+      "Network Security",
+      "Penetration Testing",
+      "Firewalls",
+      "SIEM"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 84
+  },
+  {
+    "id": 59,
+    "ad": "Lətafə Orucov",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Data Science",
+    "bio": "Lətafə Orucov 5 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azersun",
+      "ATL Tech",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "Machine Learning",
+      "Data Analysis",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 72
+  },
+  {
+    "id": 60,
+    "ad": "Zumrud Qurbanov",
+    "yas": 41,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Data Science",
+    "bio": "Zumrud Qurbanov 5 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Delta Telecom",
+      "Azersun"
+    ],
+    "bacariqlar": [
+      "Data Analysis",
+      "Python",
+      "Scikit-learn",
+      "Pandas"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 41
+  },
+  {
+    "id": 61,
+    "ad": "Emin Abbaslı",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 12,
+    "ixtisas": "Backend Development",
+    "bio": "Emin Abbaslı 12 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Bolt",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "FastAPI",
+      "Microservices",
+      "PostgreSQL"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 87
+  },
+  {
+    "id": 62,
+    "ad": "Tural Kərimov",
+    "yas": 27,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Mobile Development",
+    "bio": "Tural Kərimov 4 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Wolt",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Swift",
+      "Flutter",
+      "Kotlin",
+      "iOS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 40
+  },
+  {
+    "id": 63,
+    "ad": "Elvin İsmayılov",
+    "yas": 34,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Elvin İsmayılov 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "SOCAR",
+      "Bolt"
+    ],
+    "bacariqlar": [
+      "Django",
+      "API Design",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 76
+  },
+  {
+    "id": 64,
+    "ad": "Arzu Məlikzadə",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Backend Development",
+    "bio": "Arzu Məlikzadə 7 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Unibank",
+      "Trendyol",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "Django",
+      "PostgreSQL",
+      "Python",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 96
+  },
+  {
+    "id": 65,
+    "ad": "Aysel Vəliyev",
+    "yas": 26,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Backend Development",
+    "bio": "Aysel Vəliyev 9 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "PASHA Bank",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "PostgreSQL",
+      "Microservices",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 66,
+    "ad": "Vüqar Məmmədli",
+    "yas": 37,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Vüqar Məmmədli 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Unibank",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "FastAPI",
+      "Django",
+      "API Design",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 68
+  },
+  {
+    "id": 67,
+    "ad": "Aysel İbrahimov",
+    "yas": 34,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Aysel İbrahimov 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "Delta Telecom",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Microservices",
+      "API Design",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 67
+  },
+  {
+    "id": 68,
+    "ad": "Məlahət Əhmədov",
+    "yas": 25,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Məlahət Əhmədov 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "ATL Tech",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "Python",
+      "Django",
+      "Node.js",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 85
+  },
+  {
+    "id": 69,
+    "ad": "Şahin Şahverdiyev",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 6,
+    "ixtisas": "Backend Development",
+    "bio": "Şahin Şahverdiyev 6 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Bakcell",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "Django",
+      "API Design",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 63
+  },
+  {
+    "id": 70,
+    "ad": "Murad Hüseynov",
+    "yas": 39,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Backend Development",
+    "bio": "Murad Hüseynov 7 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Nikoil Bank",
+      "Kapital Bank"
+    ],
+    "bacariqlar": [
+      "Microservices",
+      "Django",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 78
+  },
+  {
+    "id": 71,
+    "ad": "Leyla Quliyev",
+    "yas": 31,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Mobile Development",
+    "bio": "Leyla Quliyev 7 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azersun",
+      "Bakcell",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Swift",
+      "Flutter",
+      "React Native",
+      "Android"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 72,
+    "ad": "Afsanə Nəcəfov",
+    "yas": 29,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Afsanə Nəcəfov 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azercell",
+      "ATL Tech",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "Microservices",
+      "FastAPI",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 75
+  },
+  {
+    "id": 73,
+    "ad": "Pəri Səfərov",
+    "yas": 33,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Cybersecurity",
+    "bio": "Pəri Səfərov 8 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ABB",
+      "SimurLabs",
+      "Nikoil Bank"
+    ],
+    "bacariqlar": [
+      "Linux",
+      "SIEM",
+      "Penetration Testing",
+      "Firewalls"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 81
+  },
+  {
+    "id": 74,
+    "ad": "Rüstəm Həsənov",
+    "yas": 35,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Product Management",
+    "bio": "Rüstəm Həsənov 4 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "Kapital Bank",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "Product Strategy",
+      "Roadmapping",
+      "Agile",
+      "Stakeholder Management"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 70
+  },
+  {
+    "id": 75,
+    "ad": "Aysu Babayev",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Backend Development",
+    "bio": "Aysu Babayev 9 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "ABB",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Django",
+      "API Design",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 93
+  },
+  {
+    "id": 76,
+    "ad": "Afsanə Səfərov",
+    "yas": 40,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Frontend Development",
+    "bio": "Afsanə Səfərov 15 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "PASHA Bank",
+      "Azersun"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "Next.js",
+      "React",
+      "TypeScript"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 91
+  },
+  {
+    "id": 77,
+    "ad": "Samir Səfərov",
+    "yas": 36,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Samir Səfərov 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "SOCAR",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "HTML",
+      "Next.js",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 53
+  },
+  {
+    "id": 78,
+    "ad": "Kamran Rəhimov",
+    "yas": 27,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Frontend Development",
+    "bio": "Kamran Rəhimov 7 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "SOCAR",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 92
+  },
+  {
+    "id": 79,
+    "ad": "Rasim Cəfərov",
+    "yas": 28,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 10,
+    "ixtisas": "Data Science",
+    "bio": "Rasim Cəfərov 10 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "PASHA Bank",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "SQL",
+      "Machine Learning",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 97
+  },
+  {
+    "id": 80,
+    "ad": "Fuad Məmmədzadə",
+    "yas": 39,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 14,
+    "ixtisas": "Mobile Development",
+    "bio": "Fuad Məmmədzadə 14 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "Trendyol",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Android",
+      "iOS",
+      "Flutter"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 99
+  },
+  {
+    "id": 81,
+    "ad": "Samir Əlizadə",
+    "yas": 42,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 10,
+    "ixtisas": "Mobile Development",
+    "bio": "Samir Əlizadə 10 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "Expressbank",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "Kotlin",
+      "Android",
+      "Flutter",
+      "Swift"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 89
+  },
+  {
+    "id": 82,
+    "ad": "Lətafə Şahverdiyev",
+    "yas": 27,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 9,
+    "ixtisas": "Backend Development",
+    "bio": "Lətafə Şahverdiyev 9 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Unibank",
+      "Delta Telecom"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "FastAPI",
+      "Python",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 80
+  },
+  {
+    "id": 83,
+    "ad": "Elnur Babayev",
+    "yas": 36,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 6,
+    "ixtisas": "Cybersecurity",
+    "bio": "Elnur Babayev 6 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "PASHA Bank",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "Firewalls",
+      "Network Security",
+      "SIEM",
+      "Linux"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 71
+  },
+  {
+    "id": 84,
+    "ad": "Polad İbrahimov",
+    "yas": 38,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Product Management",
+    "bio": "Polad İbrahimov 8 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "Delta Telecom",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "Roadmapping",
+      "Stakeholder Management",
+      "Agile",
+      "Product Strategy"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 83
+  },
+  {
+    "id": 85,
+    "ad": "Samir Rəhimov",
+    "yas": 29,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Frontend Development",
+    "bio": "Samir Rəhimov 15 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azercell",
+      "Azintelekom",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "TypeScript",
+      "Next.js",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 85
+  },
+  {
+    "id": 86,
+    "ad": "Pəri Babayev",
+    "yas": 38,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Backend Development",
+    "bio": "Pəri Babayev 3 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azersun",
+      "SOCAR",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 54
+  },
+  {
+    "id": 87,
+    "ad": "Elvin Vəliyev",
+    "yas": 28,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Elvin Vəliyev 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "Azersun",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "Microservices",
+      "PostgreSQL",
+      "Node.js",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 78
+  },
+  {
+    "id": 88,
+    "ad": "Arzu Şahverdiyev",
+    "yas": 26,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Product Management",
+    "bio": "Arzu Şahverdiyev 4 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "ABB",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "Agile",
+      "Roadmapping",
+      "Product Strategy",
+      "Stakeholder Management"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 52
+  },
+  {
+    "id": 89,
+    "ad": "Rövşən Quliyev",
+    "yas": 42,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 14,
+    "ixtisas": "Backend Development",
+    "bio": "Rövşən Quliyev 14 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Delta Telecom",
+      "Sinam",
+      "ATL Tech"
+    ],
+    "bacariqlar": [
+      "Python",
+      "FastAPI",
+      "API Design",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 90,
+    "ad": "Murad Xəlilov",
+    "yas": 34,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Cybersecurity",
+    "bio": "Murad Xəlilov 4 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "SOCAR",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "Firewalls",
+      "Penetration Testing",
+      "Network Security",
+      "Linux"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 77
+  },
+  {
+    "id": 91,
+    "ad": "Əkbər Əliyev",
+    "yas": 32,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Product Management",
+    "bio": "Əkbər Əliyev 8 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Azercell",
+      "Delta Telecom"
+    ],
+    "bacariqlar": [
+      "Roadmapping",
+      "Agile",
+      "Product Strategy",
+      "Stakeholder Management"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 80
+  },
+  {
+    "id": 92,
+    "ad": "Kamilla İbrahimov",
+    "yas": 39,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Kamilla İbrahimov 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Azintelekom",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "Python",
+      "Django",
+      "Microservices",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 56
+  },
+  {
+    "id": 93,
+    "ad": "Arzu Məmmədzadə",
+    "yas": 31,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Arzu Məmmədzadə 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "SimurLabs",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "Vue.js",
+      "JavaScript",
+      "TypeScript",
+      "CSS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 66
+  },
+  {
+    "id": 94,
+    "ad": "Rəşad Orucov",
+    "yas": 33,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Backend Development",
+    "bio": "Rəşad Orucov 3 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "Nikoil Bank",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Python",
+      "Node.js",
+      "Microservices"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 48
+  },
+  {
+    "id": 95,
+    "ad": "Günel Əhmədov",
+    "yas": 32,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Cybersecurity",
+    "bio": "Günel Əhmədov 8 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "ATL Tech",
+      "Azercell"
+    ],
+    "bacariqlar": [
+      "Network Security",
+      "Firewalls",
+      "SIEM",
+      "Linux"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 61
+  },
+  {
+    "id": 96,
+    "ad": "Aytac Cəfərov",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Backend Development",
+    "bio": "Aytac Cəfərov 8 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "Delta Telecom",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "PostgreSQL",
+      "Python",
+      "Microservices",
+      "Node.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 66
+  },
+  {
+    "id": 97,
+    "ad": "Aynur İbrahimov",
+    "yas": 36,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Mobile Development",
+    "bio": "Aynur İbrahimov 5 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Nikoil Bank",
+      "Wolt",
+      "Bank Respublika"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "iOS",
+      "Flutter",
+      "Android"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 41
+  },
+  {
+    "id": 98,
+    "ad": "Əli İsmayılov",
+    "yas": 37,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 10,
+    "ixtisas": "Data Science",
+    "bio": "Əli İsmayılov 10 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Trendyol",
+      "Delta Telecom",
+      "Azintelekom"
+    ],
+    "bacariqlar": [
+      "SQL",
+      "Data Analysis",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 93
+  },
+  {
+    "id": 99,
+    "ad": "Lətafə İsmayılov",
+    "yas": 30,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 10,
+    "ixtisas": "Product Management",
+    "bio": "Lətafə İsmayılov 10 illik təcrübəsi ilə Product Management sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Azintelekom",
+      "Unibank",
+      "Kapital Bank"
+    ],
+    "bacariqlar": [
+      "Roadmapping",
+      "Product Strategy",
+      "Agile",
+      "Stakeholder Management"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Product Management expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 100,
+    "ad": "Lətafə Nəcəfov",
+    "yas": 43,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 1,
+    "ixtisas": "Mobile Development",
+    "bio": "Lətafə Nəcəfov 1 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Delta Telecom",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Swift",
+      "Android",
+      "Flutter",
+      "Kotlin"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 58
+  },
+  {
+    "id": 101,
+    "ad": "Elvin Əhmədov",
+    "yas": 42,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 15,
+    "ixtisas": "Frontend Development",
+    "bio": "Elvin Əhmədov 15 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bakcell",
+      "Sinam",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 84
+  },
+  {
+    "id": 102,
+    "ad": "Fərid Vəliyev",
+    "yas": 42,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 13,
+    "ixtisas": "Cybersecurity",
+    "bio": "Fərid Vəliyev 13 illik təcrübəsi ilə Cybersecurity sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "SimurLabs",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "Network Security",
+      "Penetration Testing",
+      "Linux",
+      "SIEM"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Cybersecurity expertise",
+    "skill_score": 94
+  },
+  {
+    "id": 103,
+    "ad": "Tural Babayev",
+    "yas": 32,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Tural Babayev 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "Bank Respublika",
+      "Azersun"
+    ],
+    "bacariqlar": [
+      "TypeScript",
+      "React",
+      "HTML",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 50
+  },
+  {
+    "id": 104,
+    "ad": "Şahin Rzayev",
+    "yas": 35,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Mobile Development",
+    "bio": "Şahin Rzayev 7 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "ATL Tech",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Android",
+      "iOS",
+      "Kotlin"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 93
+  },
+  {
+    "id": 105,
+    "ad": "Rasim Hüseynli",
+    "yas": 26,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 14,
+    "ixtisas": "Mobile Development",
+    "bio": "Rasim Hüseynli 14 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Wolt",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "Kotlin",
+      "iOS",
+      "Swift",
+      "Flutter"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 87
+  },
+  {
+    "id": 106,
+    "ad": "Rüstəm Həsənov",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Frontend Development",
+    "bio": "Rüstəm Həsənov 5 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Unibank",
+      "SOCAR",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "TypeScript",
+      "CSS",
+      "JavaScript",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.7,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 65
+  },
+  {
+    "id": 107,
+    "ad": "Kamran Rzayev",
+    "yas": 31,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Backend Development",
+    "bio": "Kamran Rzayev 4 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "Bank Respublika",
+      "Sinam"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "PostgreSQL",
+      "FastAPI",
+      "Django"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 76
+  },
+  {
+    "id": 108,
+    "ad": "Aynur Məmmədzadə",
+    "yas": 29,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 1,
+    "ixtisas": "Mobile Development",
+    "bio": "Aynur Məmmədzadə 1 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Trendyol",
+      "Wolt"
+    ],
+    "bacariqlar": [
+      "Android",
+      "React Native",
+      "Kotlin",
+      "Flutter"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 59
+  },
+  {
+    "id": 109,
+    "ad": "Vəli Şahverdiyev",
+    "yas": 27,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 6,
+    "ixtisas": "Data Science",
+    "bio": "Vəli Şahverdiyev 6 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Expressbank",
+      "Bakcell",
+      "SimurLabs"
+    ],
+    "bacariqlar": [
+      "Data Analysis",
+      "Machine Learning",
+      "Scikit-learn",
+      "SQL"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 67
+  },
+  {
+    "id": 110,
+    "ad": "Cavid Məmmədov",
+    "yas": 37,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Mobile Development",
+    "bio": "Cavid Məmmədov 5 illik təcrübəsi ilə Mobile Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Kapital Bank",
+      "SOCAR",
+      "Bakcell"
+    ],
+    "bacariqlar": [
+      "React Native",
+      "Kotlin",
+      "iOS",
+      "Android"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Mobile Development expertise",
+    "skill_score": 46
+  },
+  {
+    "id": 111,
+    "ad": "Fəxri Əhmədov",
+    "yas": 33,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Frontend Development",
+    "bio": "Fəxri Əhmədov 5 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Wolt",
+      "Azercell",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "Next.js",
+      "CSS",
+      "React"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.9,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 70
+  },
+  {
+    "id": 112,
+    "ad": "Əkbər Rəhimov",
+    "yas": 29,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 3,
+    "ixtisas": "Data Science",
+    "bio": "Əkbər Rəhimov 3 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Nikoil Bank",
+      "Trendyol",
+      "SOCAR"
+    ],
+    "bacariqlar": [
+      "Pandas",
+      "Data Analysis",
+      "SQL",
+      "Machine Learning"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 40
+  },
+  {
+    "id": 113,
+    "ad": "Səbinə Qasımov",
+    "yas": 45,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 8,
+    "ixtisas": "Frontend Development",
+    "bio": "Səbinə Qasımov 8 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Bolt",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "Vue.js",
+      "JavaScript",
+      "TypeScript",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.3,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 97
+  },
+  {
+    "id": 114,
+    "ad": "Anar Hüseynov",
+    "yas": 36,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Anar Hüseynov 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Sinam",
+      "Nikoil Bank",
+      "Unibank"
+    ],
+    "bacariqlar": [
+      "JavaScript",
+      "Vue.js",
+      "Next.js",
+      "HTML"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 62
+  },
+  {
+    "id": 115,
+    "ad": "Şahin Vəliyev",
+    "yas": 34,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Şahin Vəliyev 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "PASHA Bank",
+      "Delta Telecom",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "Next.js",
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 72
+  },
+  {
+    "id": 116,
+    "ad": "Əli Ağayev",
+    "yas": 36,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 4,
+    "ixtisas": "Frontend Development",
+    "bio": "Əli Ağayev 4 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SimurLabs",
+      "Sinam",
+      "PASHA Bank"
+    ],
+    "bacariqlar": [
+      "HTML",
+      "Vue.js",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 57
+  },
+  {
+    "id": 117,
+    "ad": "Orxan Nəcəfov",
+    "yas": 30,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Data Science",
+    "bio": "Orxan Nəcəfov 7 illik təcrübəsi ilə Data Science sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Bolt",
+      "Bank Respublika",
+      "Expressbank"
+    ],
+    "bacariqlar": [
+      "SQL",
+      "Scikit-learn",
+      "Python",
+      "Pandas"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.4,
+    "ai_hint": "Data Science expertise",
+    "skill_score": 82
+  },
+  {
+    "id": 118,
+    "ad": "Vəli Nəcəfov",
+    "yas": 28,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 5,
+    "ixtisas": "Backend Development",
+    "bio": "Vəli Nəcəfov 5 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "Nikoil Bank",
+      "Azersun",
+      "Kapital Bank"
+    ],
+    "bacariqlar": [
+      "Django",
+      "PostgreSQL",
+      "Node.js",
+      "FastAPI"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.6,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 47
+  },
+  {
+    "id": 119,
+    "ad": "Afsanə Nəcəfov",
+    "yas": 34,
+    "cins": "Kişi",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 1,
+    "ixtisas": "Backend Development",
+    "bio": "Afsanə Nəcəfov 1 illik təcrübəsi ilə Backend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "ATL Tech",
+      "Azersun",
+      "Trendyol"
+    ],
+    "bacariqlar": [
+      "API Design",
+      "Microservices",
+      "PostgreSQL",
+      "Python"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": true,
+    "course_creator": true,
+    "rating": 4.8,
+    "ai_hint": "Backend Development expertise",
+    "skill_score": 59
+  },
+  {
+    "id": 120,
+    "ad": "Fuad İbrahimov",
+    "yas": 25,
+    "cins": "Qadın",
+    "tehsil": "Bakalavr — Kompüter Elmləri",
+    "umumi_tecrube_il": 7,
+    "ixtisas": "Frontend Development",
+    "bio": "Fuad İbrahimov 7 illik təcrübəsi ilə Frontend Development sahəsində ixtisaslaşıb.",
+    "karyera_yolu": "Junior → Middle → Senior",
+    "keçmis_is_yerleri": [
+      "SOCAR",
+      "Bank Respublika",
+      "ABB"
+    ],
+    "bacariqlar": [
+      "CSS",
+      "TypeScript",
+      "HTML",
+      "Next.js"
+    ],
+    "diller": [
+      "Azərbaycan",
+      "İngilis"
+    ],
+    "consultant_available": false,
+    "course_creator": true,
+    "rating": 4.5,
+    "ai_hint": "Frontend Development expertise",
+    "skill_score": 77
+  }
+]

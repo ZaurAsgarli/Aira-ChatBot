@@ -19,11 +19,20 @@ class VectorStoreService:
     def __init__(self):
         # Initialize connection to Qdrant Cloud
         try:
-            self.client = QdrantClient(
-                url=settings.QDRANT_HOST,
-                port=settings.QDRANT_PORT,
-                api_key=settings.QDRANT_API_KEY if settings.QDRANT_API_KEY else None,
-            )
+            # For Qdrant Cloud (https://), don't specify port
+            # For local Qdrant, use the configured port
+            if settings.QDRANT_HOST.startswith("https://"):
+                self.client = QdrantClient(
+                    url=settings.QDRANT_HOST,
+                    api_key=settings.QDRANT_API_KEY,
+                    timeout=60,  # Increase timeout for cloud
+                )
+            else:
+                self.client = QdrantClient(
+                    url=settings.QDRANT_HOST,
+                    port=settings.QDRANT_PORT,
+                    api_key=settings.QDRANT_API_KEY if settings.QDRANT_API_KEY else None,
+                )
             # Test connection
             self.client.get_collections()
             logger.info(f"✅ Connected to Qdrant at {settings.QDRANT_HOST}")
@@ -49,6 +58,24 @@ class VectorStoreService:
                 ),
             )
             logger.info(f"✅ Collection '{collection_name}' created successfully.")
+
+    def recreate_collection(self, collection_name: str, vector_size: int = 1536):
+        """
+        Drops and recreates a collection. Use for full re-indexing.
+        This ensures a clean slate (removes all existing points).
+        """
+        logger.info(f"♻️ Recreating collection '{collection_name}'...")
+        try:
+            self.client.recreate_collection(
+                collection_name=collection_name,
+                vectors_config=models.VectorParams(
+                    size=vector_size, distance=models.Distance.COSINE
+                ),
+            )
+            logger.info(f"✅ Collection '{collection_name}' recreated successfully.")
+        except Exception as e:
+            logger.error(f"Failed to recreate collection '{collection_name}': {e}")
+            raise
 
     def upload_vectors(self, collection_name: str, points: List[models.PointStruct]):
         """

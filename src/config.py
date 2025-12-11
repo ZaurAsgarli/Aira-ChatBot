@@ -8,7 +8,6 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 # 1. Force load .env file immediately
 load_dotenv()
 
-
 class Settings(BaseSettings):
     """
     Global Application Configuration.
@@ -24,10 +23,7 @@ class Settings(BaseSettings):
     # 🔐 APPLICATION SETTINGS
     # ==========================================
     APP_NAME: str = "MynEra Aira Chatbot"
-
-    # ✅ ƏLAVƏ EDİLDİ: Versiya nəzarəti üçün
     VERSION: str = "1.0.0"
-
     ENVIRONMENT: str = "production"
     DEBUG_MODE: bool = False
 
@@ -55,11 +51,10 @@ class Settings(BaseSettings):
     COLLECTION_LEARNERS: str = "learners_collection"
 
     # ==========================================
-    # 🌐 WEB SEARCH & TOOLS
+    # 🌐 WEB SEARCH & TOOLS (Updated to Serper)
     # ==========================================
-    # Maps to 'DUCKDUCKGO_ENABLED' in .env, but controls Search generally
     SEARCH_ENABLED: bool = True
-    TAVILY_API_KEY: Optional[str] = os.getenv("TAVILY_API_KEY")
+    SERPER_API_KEY: Optional[str] = os.getenv("SERPER_API_KEY")
 
     # ==========================================
     # 🧠 LOGIC KEYWORDS (For Orchestrator)
@@ -98,8 +93,6 @@ settings = get_settings()
 if __name__ != "__main__":
     # Only print this if imported, not if run directly
     print("\n--- ⚙️ CONFIG LOADED ---")
-
-    # ✅ BURADA ARTIQ VERSION İŞLƏYƏCƏK
     print(f"✅ App: {settings.APP_NAME} v{settings.VERSION} ({settings.ENVIRONMENT})")
 
     if settings.OPENAI_API_KEY:
@@ -107,8 +100,9 @@ if __name__ != "__main__":
     else:
         print("❌ OpenAI Key: MISSING! (Check .env)")
 
-    if settings.TAVILY_API_KEY and settings.TAVILY_API_KEY.startswith("tvly"):
-        print(f"✅ Tavily Key: Loaded ({settings.TAVILY_API_KEY[:5]}...)")
+    # Updated Check for Serper
+    if settings.SERPER_API_KEY:
+        print(f"✅ Serper Key: Loaded ({settings.SERPER_API_KEY[:5]}...)")
     else:
-        print("⚠️ Tavily Key: MISSING or Invalid! Web search will not work.")
+        print("⚠️ Serper Key: MISSING! Web search will not work.")
     print("------------------------\n")
