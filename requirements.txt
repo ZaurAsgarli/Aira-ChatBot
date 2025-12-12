@@ -1,31 +1,43 @@
-﻿# --- Core API Framework ---
-fastapi==0.115.0          # The main web framework
-uvicorn[standard]==0.31.0 # ASGI server (Includes uvloop for high performance)
-gunicorn==23.0.0          # Production Process Manager (Linux/Docker only)
-python-multipart==0.0.12  # Required for handling form data & file uploads
+﻿# ==========================================
+# Core API Framework
+# ==========================================
+fastapi==0.115.0
+uvicorn[standard]==0.31.0
+python-multipart==0.0.12
 
-# --- Configuration & Validation ---
-pydantic==2.9.2           # Data validation (v2 core)
-pydantic-settings==2.5.2  # For managing .env and config.py cleanly
-python-dotenv==1.0.1      # Loading environment variables from .env
+# ==========================================
+# Configuration & Validation
+# ==========================================
+pydantic==2.9.2
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
 
-# --- AI & LLM Orchestration ---
-openai==1.51.2            # Official OpenAI client
-tiktoken==0.8.0           # Token counting (essential for cost estimation)
+# ==========================================
+# AI & LLM
+# ==========================================
+openai==1.51.2
+tiktoken==0.8.0
 
-# --- LangChain Ecosystem (Used for Tools & Embeddings) ---
-langchain==0.3.2          # Main framework
-langchain-core==0.3.10    # Core interfaces
-langchain-openai==0.2.2   # OpenAI integration (useful for Embeddings wrapper)
-langchain-community==0.3.1 # Needed for TavilySearchResults tool wrapper
+# ==========================================
+# LangChain Ecosystem (For Tools & Embeddings)
+# ==========================================
+langchain==0.3.2
+langchain-core==0.3.10
+langchain-openai==0.2.2
+langchain-community==0.3.1
 
-# --- Vector Database ---
-qdrant-client==1.12.0     # Official client for Qdrant Vector DB
+# ==========================================
+# Vector Database
+# ==========================================
+qdrant-client==1.12.0
 
-# --- Search Capability ---
-tavily-python==0.1.6      # Official Tavily API SDK
+# ==========================================
+# Search & Web Integration
+# ==========================================
+google-search-results==2.4.2
 
-# --- Utilities ---
-httpx==0.27.2             # Async HTTP client (Dependency for OpenAI)
-aiofiles==24.1.0          # Async file operations (e.g., if saving uploads)
-requests==2.32.3          # Synchronous HTTP fallback
+# ==========================================
+# Utilities
+# ==========================================
+httpx==0.27.2
+requests==2.32.3
